@@ -1,0 +1,13 @@
+{
+  "id" : "https://SmithCollaboratory.github.io/12Bens/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in SmithCollaboratory/12Bens project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://SmithCollaboratory.github.io/12Bens/manifests/manifestQGIIIF.json",
+    "label" : "A few of Quint's favorite places"
+  } ]
+}
