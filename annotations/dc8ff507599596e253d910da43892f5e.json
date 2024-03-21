@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Travelling companion looking towards North Atlantic",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Travelling companion looking towards North Atlantic</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/81450030",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-21T12:44:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711025050822",
+    "dcterms:modified" : "2024-03-21T12:44:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SmithCollaboratory.github.io/12Bens/manifests/manifestQGIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=990,1118,198,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M989.94864,1117.79842h99.03216v0h99.03216v43.38061v43.38061h-99.03216h-99.03216v-43.38061z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ee5b2825-a753-4eae-9448-c3321e2bc379\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b092241e-99e0-4e84-b404-21ee5dc65fdb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Twelve Bens",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Twelve Bens</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/81450030",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-21T12:42:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711024960801",
+    "dcterms:modified" : "2024-03-21T12:42:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SmithCollaboratory.github.io/12Bens/manifests/manifestQGIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=103,504,5275,488"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M344.48044,850.77994l424.04608,-200.62395l241.66067,-9.11927l136.78906,-9.11927l186.94504,-13.67891l145.90833,-50.15599h218.86249l86.63307,27.35781l118.55052,-54.71562l50.15599,-4.55964l132.22942,77.5138l100.31198,-18.23854l95.75234,-63.83489l63.83489,4.55964l155.0276,68.39453l100.31198,-9.11927l132.22942,-45.59635l155.0276,-45.59635l104.87161,31.91745l127.66979,-27.35781l164.14687,86.63307l104.87161,9.11927l127.66979,-22.79818l113.99088,31.91745l127.66979,22.79818l186.94504,4.55964l91.1927,27.35781h214.30286l155.0276,18.23854l196.06431,-59.27526l182.38541,-31.91745l104.87161,31.91745l127.66979,4.55964l218.86249,27.35781l141.34869,41.03672l-396.68826,50.15599l-565.39477,-9.11927l-355.65155,27.35781l-579.07367,31.91745l-241.66067,86.63307l-250.77994,27.35781l-451.40389,-77.5138l-250.77994,-59.27526l-132.22942,-13.67891l36.47708,95.75234l-319.17447,-4.55964l-209.74322,59.27526l-341.97264,13.67891l-255.33957,31.91745l-182.38541,-4.55964l95.75234,-86.63307l-437.72498,123.11015l-355.65155,-4.55964l-82.07343,-45.59635l205.18359,-91.1927l36.47708,-18.23854z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_edcc204a-6915-4bbe-9373-28909e34bbfb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b092241e-99e0-4e84-b404-21ee5dc65fdb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Diamond Hill",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Diamond Hill</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/81450030",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-21T12:43:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711025014410",
+    "dcterms:modified" : "2024-03-21T12:43:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SmithCollaboratory.github.io/12Bens/manifests/manifestQGIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1329,887,1582,313"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1329.36165,1200l22.79818,-166.83465l145.90833,-77.5138l182.38541,-31.91745l95.75234,36.47708l123.11015,-72.95416l241.66067,13.67891l95.75234,59.27526l63.83489,36.47708l237.10103,27.35781l223.42213,27.35781l86.63307,54.71562l63.83489,54.71562v36.47708l-1577.63379,2.68778z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_58d1ccda-dd29-48f9-b683-12cd989b176e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b092241e-99e0-4e84-b404-21ee5dc65fdb"
+    } ]
+  } ],
+  "@id" : "https://SmithCollaboratory.github.io/12Bens/annotations/dc8ff507599596e253d910da43892f5e.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
