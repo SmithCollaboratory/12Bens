@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mole Antonella. Now a museum of cinema, was conceived and built as a synagogue in 19th century that the Jewish community, who commissioned archtect, rejected as too weird.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mole Antonella. Now a museum of cinema, was conceived and built as a synagogue in 19th century that the Jewish community, who commissioned archtect, rejected as too weird.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/81450030",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-21T12:52:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711025535811",
+    "dcterms:modified" : "2024-03-21T12:52:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SmithCollaboratory.github.io/12Bens/manifests/manifestQGIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4135,78,124,356"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4136.30238,404.1987c0,-21.7557 0,-43.5114 0,-65.2671c0,-5.43983 -2.58864,-19.29789 0,-24.47516c3.1238,-6.2476 7.26919,-3.19 12.23758,-8.15839c0.96148,-0.96148 -0.96148,-3.11772 0,-4.07919c0.96148,-0.96148 3.11772,0.96148 4.07919,0c2.88443,-2.88443 0,-8.15839 0,-12.23758c0,-5.60632 2.30632,-10.99816 4.07919,-16.31677c2.0396,-6.11879 -2.0396,-14.27718 0,-20.39597c0.60809,-1.82427 3.21922,-2.35925 4.07919,-4.07919c1.21618,-2.43236 -1.21618,-5.72603 0,-8.15839c0.85997,-1.71994 3.21922,-2.35925 4.07919,-4.07919c1.69385,-3.38769 0,-12.44957 0,-16.31677c0,-2.71946 -0.85997,-5.57848 0,-8.15839c0.60809,-1.82427 3.21922,-2.35925 4.07919,-4.07919c1.95752,-3.91504 -1.30581,-12.39935 0,-16.31677c1.55033,-4.651 6.96934,-7.48138 8.15839,-12.23758c1.0564,-4.2256 0,-11.63932 0,-16.31677c0,-14.95704 0,-29.91409 0,-44.87113c0,-1.81453 -1.26572,-13.78533 0,-16.31677c0.85997,-1.71994 3.4711,-2.25492 4.07919,-4.07919c0.85997,-2.57991 -1.21618,-5.72603 0,-8.15839c0.60809,-1.21618 3.11772,0.96148 4.07919,0c5.61787,-5.61787 4.07919,-12.23758 4.07919,-12.23758c0,0 0,5.43892 0,8.15839c0,9.51812 0,19.03624 0,28.55436c0,9.47996 -2.83326,32.29216 0,40.79194c1.35973,4.07919 2.15624,8.39168 4.07919,12.23758c0.85997,1.71994 3.21922,2.35925 4.07919,4.07919c0.60809,1.21618 -0.60809,2.86301 0,4.07919c0.85997,1.71994 3.21922,2.35925 4.07919,4.07919c1.21618,2.43236 -1.21618,5.72603 0,8.15839c2.1925,4.385 6.60806,7.58658 8.15839,12.23758c0.42998,1.28995 -0.96148,3.11772 0,4.07919c0.96148,0.96148 3.11772,-0.96148 4.07919,0c0.96148,0.96148 -0.96148,3.11772 0,4.07919c0.96148,0.96148 3.11772,-0.96148 4.07919,0c1.07979,1.07979 0,10.55791 0,12.23758c0,1.35973 -0.96148,3.11772 0,4.07919c0.96148,0.96148 3.4711,-1.21618 4.07919,0c1.21618,2.43236 -1.21618,5.72603 0,8.15839c0.60809,1.21618 2.86301,-0.60809 4.07919,0c2.87149,1.43574 10.71973,13.28107 12.23758,16.31677c1.82427,3.64854 -1.28995,8.36772 0,12.23758c0.60809,1.82427 3.21922,2.35925 4.07919,4.07919c0.60809,1.21618 -0.96148,3.11772 0,4.07919c0.96148,0.96148 3.11772,-0.96148 4.07919,0c3.25585,3.25585 -2.13982,16.11632 0,20.39597c0.85997,1.71994 3.4711,2.25492 4.07919,4.07919c2.85933,8.57799 0,47.43786 0,57.10871c0,6.79866 0,13.59731 0,20.39597c0,1.35973 -0.96148,3.11772 0,4.07919c0.96148,0.96148 3.11772,-0.96148 4.07919,0c2.58748,2.58748 -1.69814,12.92049 0,16.31677c0.85997,1.71994 3.21922,2.35925 4.07919,4.07919c2.14463,4.28926 0,15.49632 0,20.39597c0,1.67967 1.07979,11.15779 0,12.23758c-0.96148,0.96148 -2.86301,-0.60809 -4.07919,0c-1.71994,0.85997 -2.21366,3.61281 -4.07919,4.07919c-5.27653,1.31913 -10.87785,0 -16.31677,0c-13.08732,0 -36.62148,3.08221 -48.95032,0c-6.59567,-1.64892 -10.06782,-9.55946 -16.31677,-12.23758c-10.76256,-4.61252 -18.28715,-4.07919 -28.55436,-4.07919\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_204dd483-2bd2-4f99-b37f-dc8c5cdf9ecc\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00eef617-d525-40cb-bb19-582675903969"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Royal Palace",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Royal Palace</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/81450030",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-21T12:54:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711025663739",
+    "dcterms:modified" : "2024-03-21T12:54:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SmithCollaboratory.github.io/12Bens/manifests/manifestQGIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3712,335,383,61"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3720.22462,375.64435l138.69258,-40.79194l130.5342,12.23758l97.90065,4.07919l8.15839,44.87113h-146.85097l-236.59323,-12.23758v0z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_fea5a76d-097a-4732-ae65-5fc0e5363729\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00eef617-d525-40cb-bb19-582675903969"
+    } ]
+  } ],
+  "@id" : "https://SmithCollaboratory.github.io/12Bens/annotations/f00a3e7fe4f59709dbadcc639e8e135d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
