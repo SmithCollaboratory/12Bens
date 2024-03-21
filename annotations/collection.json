@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://SmithCollaboratory.github.io/12Bens/annotations/dc8ff507599596e253d910da43892f5e.json" ],
+  "@id" : "https://SmithCollaboratory.github.io/12Bens/annotations/collection.json",
+  "label" : "All annotations loaded in SmithCollaboratory/12Bens project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
