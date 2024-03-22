@@ -110,7 +110,7 @@
         "on" : "http://00eef617-d525-40cb-bb19-582675903969"
       } ],
       "otherContent" : [ {
-        "@id" : "https://smithcollaboratory.github.io/12Bens/annotations/7fbccdb013aba11c5f5cb5e6874602d4.json",
+        "@id" : "https://smithcollaboratory.github.io/12Bens/annotations/f00a3e7fe4f59709dbadcc639e8e135d.json",
         "@type" : "sc:AnnotationList",
         "label" : "Torino annotations"
       } ],
@@ -169,7 +169,7 @@
         "on" : "http://da6cf9ae-d84f-45ae-9e99-26a308dc33f5"
       } ],
       "otherContent" : [ {
-        "@id" : "https://smithcollaboratory.github.io/12Bens/annotations/f00a3e7fe4f59709dbadcc639e8e135d.json",
+        "@id" : "https://smithcollaboratory.github.io/12Bens/annotations/7fbccdb013aba11c5f5cb5e6874602d4.json",
         "@type" : "sc:AnnotationList",
         "label" : "Positano annotations"
       } ],
