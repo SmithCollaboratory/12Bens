@@ -68,6 +68,39 @@
     } ]
   }, {
     "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Likely vantage point for a much earlier panorama of Portofino focusing on Castello Brown\n<a href=\"https://archive.org/details/pc301v_202004/PC301r.jpg\" target=\"_blank\" rel=\"noopener\">https://archive.org/details/pc301v_202004/PC301r.jpg<img src=\"https://archive.org/details/pc301v_202004/PC301r.jpg\" alt=\"Panorama postcard of Portofino focusing on Castello Brown\" />\n&nbsp;\nAnd for a straight panorama from the same time of Positano FROM Castello Brown\nhttps://archive.org/details/pc301v_202004\n<img src=\"https://archive.org/details/pc301v_202004/PC301r.jpg\" alt=\"Panorama postcard of Positano from Castello Brown\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Likely vantage point for a much earlier panorama of Portofino focusing on Castello Brown</p>\n<p><a href=\"https://archive.org/details/pc301v_202004/PC301r.jpg\" target=\"_blank\" rel=\"noopener\">https://archive.org/details/pc301v_202004/PC301r.jpg</a><img src=\"https://archive.org/details/pc301v_202004/PC301r.jpg\" alt=\"Panorama postcard of Portofino focusing on Castello Brown\" /></p>\n<p>&nbsp;</p>\n<p>And for a straight panorama from the same time of Positano FROM Castello Brown</p>\n<p>https://archive.org/details/pc301v_202004</p>\n<p><img src=\"https://archive.org/details/pc301v_202004/PC301r.jpg\" alt=\"Panorama postcard of Positano from Castello Brown\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/81450030",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-22T12:39:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711111155125",
+    "dcterms:modified" : "2024-03-22T12:39:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SmithCollaboratory.github.io/12Bens/manifests/manifestQGIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2014,80,147,123"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2013.56665,80.25925h73.58048v0h73.58048v61.48373v61.48373h-73.58048h-73.58048v-61.48373z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a50c087a-b576-405c-bb84-7558668c84d4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f330f638-f637-462b-a67e-52cb5f8bb14c"
+    } ]
+  }, {
+    "resource" : [ {
       "http://dev.llgc.org.uk/sas/full_text" : "Conspicuous evidence of obscene wealth (these wealthy wait until day-trippers leave to come into town and shop and dine at night)",
       "@type" : "dctypes:Text",
       "format" : "text/html",
